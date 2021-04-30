@@ -7,9 +7,9 @@ from sklearn.ensemble import RandomForestClassifier
 
 # Title
 
-image = Image.open('logo.jpg')
+#image = Image.open('logo.jpg')
 
-st.image(image, width = 500)
+#st.image(image, width = 500)
 
 st.write("""
 # Penguin Prediction App
